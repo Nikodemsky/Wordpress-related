@@ -1,3 +1,5 @@
+<?php
+
 /*********** OPTIMIZATIONS ***********/
 
 // Remove gutenberg styles
