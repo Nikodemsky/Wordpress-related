@@ -1,3 +1,5 @@
+<?php
+
 // Removes comments completely
 add_action('admin_init', function () {
 
